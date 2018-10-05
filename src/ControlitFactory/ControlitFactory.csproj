@@ -28,17 +28,22 @@
 
 
   <ItemGroup>
-    <EmbeddedResource Remove="Resx\AppResources.lt.resx" />
-    <EmbeddedResource Remove="Resx\AppResources.lv.resx" />
-    <EmbeddedResource Remove="Resx\AppResources.resx" />
-    <EmbeddedResource Remove="Resx\AppResources.ru.resx" />
-    <EmbeddedResource Remove="Resx\AppResources.se.resx" />
+    <EmbeddedResource Remove="Views\ImageHelper.xaml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resx\AppResources.lt.resx" />
-    <None Include="Resx\AppResources.lv.resx" />
-    <None Include="Resx\AppResources.resx" />
-    <None Include="Resx\AppResources.ru.resx" />
-    <None Include="Resx\AppResources.se.resx" />
+    <Compile Remove="Resx\AppResources.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\CustomNavigationPage.xaml.cs">
+      <DependentUpon>CustomNavigationPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Xamarin.iOS">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\Xamarin.iOS.framework\Versions\Current\lib\mono\Xamarin.iOS\Xamarin.iOS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resx\AppResources.Designer.cs" />
   </ItemGroup>
 </Project>

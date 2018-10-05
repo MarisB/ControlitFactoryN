@@ -26,10 +26,25 @@
           "Xamarin.Forms": "3.1.0.583944",
           "Xamarin.Forms.Maps": "2.5.0.122203",
           "sqlite-net": "1.0.8",
-          "sqlite-net-pcl": "1.4.118"
+          "sqlite-net-pcl": "1.4.118",
+          "Xamarin.iOS": "0.0.0.0"
         },
         "runtime": {
           "ControlitFactory.dll": {}
+        },
+        "resources": {
+          "lt/ControlitFactory.resources.dll": {
+            "locale": "lt"
+          },
+          "lv/ControlitFactory.resources.dll": {
+            "locale": "lv"
+          },
+          "ru/ControlitFactory.resources.dll": {
+            "locale": "ru"
+          },
+          "se/ControlitFactory.resources.dll": {
+            "locale": "se"
+          }
         }
       },
       "Microsoft.CSharp/4.3.0": {
@@ -838,6 +853,14 @@
             "fileVersion": "2.0.0.0"
           }
         }
+      },
+      "Xamarin.iOS/0.0.0.0": {
+        "runtime": {
+          "Xamarin.iOS.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1329,6 +1352,11 @@
       "sha512": "sha512-KK4r9TBkMjCNqjPfvpaWYpK2sgpAd2rCcah6sG7XJs6AC2/oWy4Wz9zbb9YfJzco7MH2dyeZ6efkR6h2ZTcJEg==",
       "path": "xamarin.forms.maps/2.5.0.122203",
       "hashPath": "xamarin.forms.maps.2.5.0.122203.nupkg.sha512"
+    },
+    "Xamarin.iOS/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

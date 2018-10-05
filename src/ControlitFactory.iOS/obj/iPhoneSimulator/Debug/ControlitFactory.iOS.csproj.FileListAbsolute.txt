@@ -250,3 +250,7 @@
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/optimized/radio1.png
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/optimized/radio2.png
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/optimized/share.png
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/lt/ControlitFactory.resources.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/lv/ControlitFactory.resources.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/ru/ControlitFactory.resources.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/se/ControlitFactory.resources.dll

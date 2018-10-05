@@ -54,6 +54,7 @@ namespace ControlitFactory
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage>();
             containerRegistry.RegisterForNavigation<CustomNavigationPage>();
+            containerRegistry.RegisterForNavigation<Settings>();
         }
 
         protected override void OnStart()

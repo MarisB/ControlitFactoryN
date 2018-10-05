@@ -239,6 +239,10 @@
 -r=/Users/marisbergs/.nuget/packages/xamarin.forms.maps/2.5.0.122203/lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll
 -r=/Users/marisbergs/.nuget/packages/xamarin.ios.clusterkit/0.3.1.1/lib/Xamarin.iOS10/Xamarin.iOS.ClusterKit.dll
 -r=/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/ControlitFactory.dll
+-r=/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/lt/ControlitFactory.resources.dll
+-r=/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/lv/ControlitFactory.resources.dll
+-r=/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/ru/ControlitFactory.resources.dll
+-r=/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/se/ControlitFactory.resources.dll
 --target-framework=Xamarin.iOS,v1.0
 --root-assembly=/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/ControlitFactory.iOS.exe
 

@@ -3,8 +3,13 @@ _xamarin_timezone_get_data
 _xamarin_GetFolderPath
 _xamarin_log
 _xamarin_get_locale_country_code
-_xamarin_find_protocol_wrapper_type
 _xamarin_start_wwan
+_CreateZStream
+_CloseZStream
+_Flush
+_ReadZStream
+_WriteZStream
+_xamarin_find_protocol_wrapper_type
 _xamarin_get_block_descriptor
 _xamarin_simd__NMatrix4_objc_msgSend
 _xamarin_simd__NMatrix4_objc_msgSendSuper
@@ -482,11 +487,6 @@ _xamarin_localized_string_format_7
 _xamarin_localized_string_format_8
 _xamarin_localized_string_format_9
 _xamarin_init_nsthread
-_CreateZStream
-_CloseZStream
-_Flush
-_ReadZStream
-_WriteZStream
 _mono_pmip
 _xamarin_dyn_objc_msgSend
 _xamarin_dyn_objc_msgSendSuper

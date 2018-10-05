@@ -8,11 +8,21 @@ Function=xamarin_log
 	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_get_locale_country_code
 	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_start_wwan
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
 Function=xamarin_find_protocol_wrapper_type
 	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=xamarin_start_wwan
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
 Function=xamarin_get_block_descriptor
 	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSend
@@ -967,16 +977,6 @@ Function=xamarin_localized_string_format_9
 	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
 Function=xamarin_init_nsthread
 	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
-Function=CreateZStream
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
-Function=CloseZStream
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
-Function=Flush
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
-Function=ReadZStream
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
-Function=WriteZStream
-	/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.0/mtouch-cache/1-Link/System.dll
 Function=mono_pmip
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper

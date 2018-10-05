@@ -6,6 +6,7 @@ using Prism;
 using Prism.AppModel;
 using Prism.Navigation;
 using Prism.Services;
+using Prism.Commands;
 
 namespace ControlitFactory.ViewModels
 {
@@ -23,7 +24,13 @@ namespace ControlitFactory.ViewModels
             _pageDialogService = pageDialogService;
             _deviceService = deviceService;
             _navigationService = navigationService;
+            NavigateCommand = new DelegateCommand<string>(Navigate);
         }
+        private void Navigate(string parameter)
+        {
+            _navigationService.NavigateAsync(parameter);
+        }
+        public DelegateCommand<string> NavigateCommand { get; set; }
 
         public string Title { get; set; }
 

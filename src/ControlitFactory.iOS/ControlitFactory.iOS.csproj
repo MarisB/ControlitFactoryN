@@ -121,6 +121,9 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <None Include="FodyWeavers.xml" />
+    <Compile Include="Renderers\RightToolbarMenuCustomRenderer.cs" />
+    <Compile Include="Services\TableSource.cs" />
+    <Compile Include="FileHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\AppIcon@1x.png" />

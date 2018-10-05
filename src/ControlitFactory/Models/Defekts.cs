@@ -3,7 +3,6 @@ using System;
 using SQLite;
 using System.IO;
 using Xamarin.Forms;
-using ControlitFactory.Resx;
 
 namespace ControlitFactory.Models
 {
@@ -87,7 +86,7 @@ namespace ControlitFactory.Models
 
         public override string ToString()
         {
-            return AppResources.DefektaNrLabel + " " + DefektaNr;
+            return "";// ControlitFactory.Resx.AppResources.DefektaNrLabel + " " + DefektaNr;
         }
 
     }
