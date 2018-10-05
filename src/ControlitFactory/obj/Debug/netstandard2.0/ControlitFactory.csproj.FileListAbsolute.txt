@@ -27,3 +27,4 @@
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/ControlitFactory.dll
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/ControlitFactory.pdb
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/ControlitFactory.csprojAssemblyReference.cache

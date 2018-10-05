@@ -1,14 +1,10 @@
 ﻿<Properties StartupConfiguration="{497B5C55-46BB-47C8-A359-78B331CDF5E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ControlifFactoryGit Status">
-    <Files>
-      <File FileName="ControlifFactoryGit Status" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.src.ControlitFactory.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C79A718B-7EB9-4689-B93B-C451F460CE7A" />
+  <MonoDevelop.Ide.ItemProperties.src.ControlitFactory.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.11177575-641F-4C87-A7CE-AAEAA26C53AC" />
 </Properties>

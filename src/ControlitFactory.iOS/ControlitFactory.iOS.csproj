@@ -129,6 +129,21 @@
     <BundleResource Include="Resources\hamburger.png" />
     <BundleResource Include="Resources\hamburger@2x.png" />
     <BundleResource Include="Resources\controlit_splash.png" />
+    <BundleResource Include="Resources\add.png" />
+    <BundleResource Include="Resources\avatar.png" />
+    <BundleResource Include="Resources\cancel.png" />
+    <BundleResource Include="Resources\clear.png" />
+    <BundleResource Include="Resources\confirm_address.png" />
+    <BundleResource Include="Resources\delete.png" />
+    <BundleResource Include="Resources\google.png" />
+    <BundleResource Include="Resources\icon.png" />
+    <BundleResource Include="Resources\more.png" />
+    <BundleResource Include="Resources\ok.png" />
+    <BundleResource Include="Resources\photo_camera.png" />
+    <BundleResource Include="Resources\pin.png" />
+    <BundleResource Include="Resources\radio1.png" />
+    <BundleResource Include="Resources\radio2.png" />
+    <BundleResource Include="Resources\share.png" />
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="Resources\iTunesArtwork@1x.png" />
