@@ -87,5 +87,24 @@ namespace ControlitFactory
                 Container.Resolve<ILoggerFacade>().Log(e.Exception);
             };
         }
+        static DataManager.DataManager database;
+        public static DataManager.DataManager Database
+        {
+            get
+            {
+                if (database == null)
+                {
+                    database = new DataManager.DataManager(DependencyService.Get<IFileHelper>().GetLocalFilePath("ControlitFactory.db3"));
+                }
+                return database;
+            }
+        }
+
+        public static int AktaId { get; set; }
+
+
+        public static ControlitFactory.Models.DefektacijasAkts Akts { get; set; }
+
+        public static ControlitFactory.Models.Settings Profils { get; set; }
     }
 }

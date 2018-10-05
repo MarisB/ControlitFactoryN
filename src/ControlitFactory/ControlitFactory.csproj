@@ -27,4 +27,18 @@
   </ItemGroup>
 
 
+  <ItemGroup>
+    <EmbeddedResource Remove="Resx\AppResources.lt.resx" />
+    <EmbeddedResource Remove="Resx\AppResources.lv.resx" />
+    <EmbeddedResource Remove="Resx\AppResources.resx" />
+    <EmbeddedResource Remove="Resx\AppResources.ru.resx" />
+    <EmbeddedResource Remove="Resx\AppResources.se.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resx\AppResources.lt.resx" />
+    <None Include="Resx\AppResources.lv.resx" />
+    <None Include="Resx\AppResources.resx" />
+    <None Include="Resx\AppResources.ru.resx" />
+    <None Include="Resx\AppResources.se.resx" />
+  </ItemGroup>
 </Project>

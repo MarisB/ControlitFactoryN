@@ -58,6 +58,12 @@
 /Users/marisbergs/.nuget/packages/prism.unity.forms/7.0.0.396/lib/netstandard2.0/Prism.Unity.Forms.dll
 /Users/marisbergs/.nuget/packages/unity/5.5.5/lib/netstandard2.0/Unity.Abstractions.dll
 /Users/marisbergs/.nuget/packages/unity/5.5.5/lib/netstandard2.0/Unity.Container.dll
+/Users/marisbergs/.nuget/packages/sqlite-net-pcl/1.4.118/lib/netstandard1.1/SQLite-net.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Collections.Concurrent.dll
+/Users/marisbergs/.nuget/packages/sqlitepclraw.core/1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Linq.Expressions.dll
+/Users/marisbergs/.nuget/packages/sqlitepclraw.bundle_green/1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+/Users/marisbergs/.nuget/packages/sqlitepclraw.provider.sqlite3.ios_unified/1.1.5/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll
 /Users/marisbergs/.nuget/packages/prism.plugin.popups/2.0.0-pre6/lib/netstandard2.0/Prism.Plugin.Popups.dll
 /Users/marisbergs/.nuget/packages/prism.forms.extensions/1.0.0-pre4/lib/netstandard1.0/Prism.Forms.Extensions.dll
 /Users/marisbergs/.nuget/packages/xamarin.ffimageloading.transformations/2.4.3.840/lib/Xamarin.iOS10/FFImageLoading.Transformations.dll
