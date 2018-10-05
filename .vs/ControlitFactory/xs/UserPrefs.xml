@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{497B5C55-46BB-47C8-A359-78B331CDF5E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory.iOS/AppDelegate.cs">
     <Files>
       <File FileName="src/ControlitFactory/Helpers/AppConstants.cs" Line="1" Column="1" />
       <File FileName="src/ControlitFactory/Models/Defekts.cs" Line="6" Column="24" />
@@ -10,6 +10,7 @@
       <File FileName="src/ControlitFactory/ViewModels/CustomNavigationPageViewModel.cs" Line="1" Column="1" />
       <File FileName="ControlifFactoryGit Status" />
       <File FileName="src Status" />
+      <File FileName="src/ControlitFactory.iOS/AppDelegate.cs" Line="15" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
