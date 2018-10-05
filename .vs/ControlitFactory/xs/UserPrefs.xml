@@ -1,11 +1,15 @@
 ﻿<Properties StartupConfiguration="{497B5C55-46BB-47C8-A359-78B331CDF5E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src Status">
     <Files>
       <File FileName="src/ControlitFactory/Helpers/AppConstants.cs" Line="1" Column="1" />
-      <File FileName="src/ControlitFactory/App.xaml.cs" Line="108" Column="77" />
       <File FileName="src/ControlitFactory/Models/Defekts.cs" Line="6" Column="24" />
       <File FileName="src/ControlitFactory/DataManager/DataManager.cs" Line="144" Column="29" />
       <File FileName="src/ControlitFactory/App.xaml" Line="12" Column="26" />
+      <File FileName="src/ControlitFactory/Views/CustomNavigationPage.xaml" Line="4" Column="1" />
+      <File FileName="src/ControlitFactory/Views/CustomNavigationPage.xaml.cs" Line="14" Column="1" />
+      <File FileName="src/ControlitFactory/ViewModels/CustomNavigationPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="ControlifFactoryGit Status" />
+      <File FileName="src Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

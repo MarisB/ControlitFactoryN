@@ -37,7 +37,7 @@ namespace ControlitFactory
             InitializeComponent();
             LogUnobservedTaskExceptions();
 
-            await NavigationService.NavigateAsync("SplashScreenPage");
+            await NavigationService.NavigateAsync("CustomNavigationPage/MainPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -53,7 +53,7 @@ namespace ControlitFactory
             containerRegistry.RegisterForNavigation<TabbedPage>();
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage>();
-            containerRegistry.RegisterForNavigation<SplashScreenPage>();
+            containerRegistry.RegisterForNavigation<CustomNavigationPage>();
         }
 
         protected override void OnStart()
