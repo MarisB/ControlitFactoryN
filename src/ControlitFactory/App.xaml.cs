@@ -57,6 +57,9 @@ namespace ControlitFactory
             containerRegistry.RegisterForNavigation<Settings>();
             containerRegistry.RegisterForNavigation<Equipment>();
             containerRegistry.RegisterForNavigation<EquipmentEdit>();
+            containerRegistry.RegisterForNavigation<EditTabPage>();
+            containerRegistry.RegisterForNavigation<Ieraksts>();
+            containerRegistry.RegisterForNavigation<Defekti>();
         }
 
         protected override void OnStart()

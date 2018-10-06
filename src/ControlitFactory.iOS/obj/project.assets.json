@@ -85,6 +85,15 @@
           "lib/xamarinios10/Plugin.Permissions.dll": {}
         }
       },
+      "Portable.Text.Encoding/0.8.3": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        }
+      },
       "Prism.Core/7.0.0.396": {
         "type": "package",
         "compile": {
@@ -976,6 +985,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Portable.Text.Encoding": "0.8.3",
           "Prism.Forms.Extensions": "1.0.0-pre4",
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
@@ -1084,6 +1094,15 @@
           "lib/xamarinios10/Plugin.Permissions.dll": {}
         }
       },
+      "Portable.Text.Encoding/0.8.3": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        }
+      },
       "Prism.Core/7.0.0.396": {
         "type": "package",
         "compile": {
@@ -1911,6 +1930,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Portable.Text.Encoding": "0.8.3",
           "Prism.Forms.Extensions": "1.0.0-pre4",
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
@@ -2019,6 +2039,15 @@
           "lib/xamarinios10/Plugin.Permissions.dll": {}
         }
       },
+      "Portable.Text.Encoding/0.8.3": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        }
+      },
       "Prism.Core/7.0.0.396": {
         "type": "package",
         "compile": {
@@ -2846,6 +2875,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Portable.Text.Encoding": "0.8.3",
           "Prism.Forms.Extensions": "1.0.0-pre4",
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
@@ -2954,6 +2984,15 @@
           "lib/xamarinios10/Plugin.Permissions.dll": {}
         }
       },
+      "Portable.Text.Encoding/0.8.3": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll": {}
+        }
+      },
       "Prism.Core/7.0.0.396": {
         "type": "package",
         "compile": {
@@ -3781,6 +3820,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Portable.Text.Encoding": "0.8.3",
           "Prism.Forms.Extensions": "1.0.0-pre4",
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
@@ -3908,6 +3948,17 @@
         "plugin.permissions.3.0.0.12.nupkg.sha512",
         "plugin.permissions.nuspec",
         "readme.txt"
+      ]
+    },
+    "Portable.Text.Encoding/0.8.3": {
+      "sha512": "uIm6HTmHAextu7Z2qtMsOfhEOJwx16GeEONKvm/zYI4pYSqDiZcHRMdGzWiXRu9r5swO3bOyffJqNpVt83HNdw==",
+      "type": "package",
+      "path": "portable.text.encoding/0.8.3",
+      "files": [
+        "lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll",
+        "lib/portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll",
+        "portable.text.encoding.0.8.3.nupkg.sha512",
+        "portable.text.encoding.nuspec"
       ]
     },
     "Prism.Core/7.0.0.396": {

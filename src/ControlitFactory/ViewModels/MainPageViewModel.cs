@@ -18,7 +18,10 @@ namespace ControlitFactory.ViewModels
                                  IDeviceService deviceService)
             : base(navigationService, pageDialogService, deviceService)
         {
-            HelpCommand = new DelegateCommand(Help);
+            HelpCommand = new DelegateCommand(Help); 
+            PievienotDefektacijasAktuCommand = new DelegateCommand(PievienotDefektacijasAktu);
+            AtvertDefektacijasAktuCommand = new DelegateCommand<DefektacijasAkts>(AtvertDefektacijasAktu);
+
         }
 
         private void Help()
@@ -52,29 +55,34 @@ namespace ControlitFactory.ViewModels
         public DelegateCommand HelpCommand { get; set; }
         public DelegateCommand<DefektacijasAkts> AtvertDefektacijasAktuCommand { get; set; }
 
-        public override void OnNavigatingTo(NavigationParameters parameters)
+        public void PievienotDefektacijasAktu()
         {
-            // TODO: Implement your initialization logic
+            var parametri = new NavigationParameters
+            {
+                { "Id", 0 }
+            };
+
+            _navigationService.NavigateAsync("EditTabPage", parametri);
+        }
+        public void AtvertDefektacijasAktu(DefektacijasAkts item)
+        {
+            var parametri = new NavigationParameters
+            {
+                { "Id", item.Id }
+            };
+
+            _navigationService.NavigateAsync("EditTabPage", parametri);
         }
 
-        public override void OnNavigatedFrom(NavigationParameters parameters)
+        public ObservableCollection<DefektacijasAkts> Ieraksti
         {
-            // TODO: Handle any final tasks before you navigate away
+            get => new ObservableCollection<DefektacijasAkts>(App.Database.GetDefektacijasAkti().Result);
         }
 
         public override void OnNavigatedTo(NavigationParameters parameters)
         {
-            switch (parameters.GetNavigationMode())
-            {
-                case NavigationMode.Back:
-                    // TODO: Handle any tasks that should occur only when navigated back to
-                    break;
-                case NavigationMode.New:
-                    // TODO: Handle any tasks that should occur only when navigated to for the first time
-                    break;
-            }
-
-            // TODO: Handle any tasks that should be done every time OnNavigatedTo is triggered
+            base.OnNavigatedTo(parameters);
+            RaisePropertyChanged(nameof(Ieraksti));
         }
     }
 }

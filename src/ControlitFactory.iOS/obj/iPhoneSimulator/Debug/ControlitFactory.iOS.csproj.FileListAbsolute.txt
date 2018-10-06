@@ -254,3 +254,6 @@
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/lv/ControlitFactory.resources.dll
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/ru/ControlitFactory.resources.dll
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/se/ControlitFactory.resources.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/Reporten.txt
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/Reportlv.txt
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/Portable.Text.Encoding.dll

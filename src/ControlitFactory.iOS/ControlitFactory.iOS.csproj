@@ -124,6 +124,7 @@
     <Compile Include="Renderers\RightToolbarMenuCustomRenderer.cs" />
     <Compile Include="Services\TableSource.cs" />
     <Compile Include="FileHelper.cs" />
+    <Compile Include="SaveAndLoad.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\AppIcon@1x.png" />

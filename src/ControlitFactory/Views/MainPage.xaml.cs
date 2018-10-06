@@ -35,6 +35,7 @@ namespace ControlitFactory.Views
                 {
                     Text = "Pievienot",
                     Icon = "add.png",
+                    Command = viewModel.PievienotDefektacijasAktuCommand,
                     Order = ToolbarItemOrder.Primary
                 };
 

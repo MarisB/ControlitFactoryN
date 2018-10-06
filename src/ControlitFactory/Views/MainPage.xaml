@@ -6,9 +6,16 @@
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core" 
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core" 
              xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core" 
+             xmlns:localization="clr-namespace:ControlitFactory.Support;assembly=ControlitFactory"
              Title="Controlit Factory" 
+             NavigationPage.HasBackButton="False"
              x:Class="ControlitFactory.Views.MainPage">
     <ct:CustomToolbarContentPage.ToolbarItems>
         
     </ct:CustomToolbarContentPage.ToolbarItems>
+    <ct:CustomToolbarContentPage.Content>
+        <localization:BetterListView ItemsSource="{Binding Path=Ieraksti}"  ItemClickCommand="{Binding AtvertDefektacijasAktuCommand}">
+            
+        </localization:BetterListView>
+    </ct:CustomToolbarContentPage.Content>
 </ct:ContentPage>

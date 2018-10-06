@@ -160,6 +160,7 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XmlDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll
 -r=/Users/marisbergs/.nuget/packages/plugin.permissions/3.0.0.12/lib/xamarinios10/Plugin.Permissions.dll
+-r=/Users/marisbergs/.nuget/packages/portable.text.encoding/0.8.3/lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll
 -r=/Users/marisbergs/.nuget/packages/prism.core/7.0.0.396/lib/netstandard2.0/Prism.dll
 -r=/Users/marisbergs/.nuget/packages/prism.forms/7.0.0.396/lib/netstandard2.0/Prism.Forms.dll
 -r=/Users/marisbergs/.nuget/packages/prism.forms.extensions/1.0.0-pre4/lib/netstandard1.0/Prism.Forms.Extensions.dll

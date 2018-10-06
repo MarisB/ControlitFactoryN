@@ -1,24 +1,16 @@
 ﻿<Properties StartupConfiguration="{497B5C55-46BB-47C8-A359-78B331CDF5E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory/Support/TranslateExtension.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory/ViewModels/IerakstsViewModel.cs">
     <Files>
-      <File FileName="src/ControlitFactory.iOS/Services/TableSource.cs" Line="48" Column="1" />
-      <File FileName="src/ControlitFactory/ViewModels/MainPageViewModel.cs" Line="21" Column="24" />
-      <File FileName="src/ControlitFactory/Views/MainPage.xaml.cs" Line="56" Column="38" />
-      <File FileName="src/ControlitFactory/Views/Equipment.xaml" Line="18" Column="15" />
-      <File FileName="src/ControlitFactory/Views/Equipment.xaml.cs" Line="1" Column="1" />
-      <File FileName="src/ControlitFactory/ViewModels/EquipmentViewModel.cs" Line="22" Column="9" />
-      <File FileName="src/ControlitFactory/Views/EquipmentEdit.xaml" Line="17" Column="43" />
-      <File FileName="src/ControlitFactory/Views/EquipmentEdit.xaml.cs" Line="1" Column="1" />
-      <File FileName="src/ControlitFactory/ViewModels/EquipmentEditViewModel.cs" Line="40" Column="26" />
-      <File FileName="src/ControlitFactory/Support/TranslateExtension.cs" Line="156" Column="1" />
+      <File FileName="src/ControlitFactory/Views/Ieraksts.xaml" Line="190" Column="27" />
+      <File FileName="src/ControlitFactory/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" Line="17" Column="92" />
+      <File FileName="src/ControlitFactory/Views/Ieraksts.xaml.cs" Line="15" Column="29" />
+      <File FileName="src/ControlitFactory/ViewModels/IerakstsViewModel.cs" Line="121" Column="45" />
+      <File FileName="src/ControlitFactory/Views/Settings.xaml.cs" Line="35" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/ViewModels/EquipmentEditViewModel.cs" relfile="src/ControlitFactory/ViewModels/EquipmentEditViewModel.cs" line="40" column="1" />
-      <Breakpoint file="/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/ViewModels/EquipmentEditViewModel.cs" relfile="src/ControlitFactory/ViewModels/EquipmentEditViewModel.cs" line="38" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
