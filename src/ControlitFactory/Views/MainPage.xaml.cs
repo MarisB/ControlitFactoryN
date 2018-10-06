@@ -54,6 +54,8 @@ namespace ControlitFactory.Views
                 {
                     Text = "Iekārtas",
                     Icon = "add.png",
+                    Command = viewModel.NavigateCommand,
+                    CommandParameter = nameof(Equipment),
                     Order = ToolbarItemOrder.Secondary
                 };
 

@@ -48,3 +48,5 @@
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/lv/ControlitFactory.resources.dll
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/ru/ControlitFactory.resources.dll
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/se/ControlitFactory.resources.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/Views/Equipment.xaml.g.cs
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/Views/EquipmentEdit.xaml.g.cs
