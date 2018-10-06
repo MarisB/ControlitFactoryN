@@ -35,11 +35,11 @@
 /Users/marisbergs/.nuget/packages/prism.core/7.0.0.396/lib/netstandard2.0/Prism.dll
 /Users/marisbergs/.nuget/packages/unity/5.5.5/lib/netstandard2.0/Unity.Abstractions.dll
 /Users/marisbergs/.nuget/packages/unity/5.5.5/lib/netstandard2.0/Unity.Container.dll
+/Users/marisbergs/.nuget/packages/plugin.permissions/3.0.0.12/lib/xamarinios10/Plugin.Permissions.dll
+/Users/marisbergs/.nuget/packages/xam.plugin.media/4.0.1.5/lib/xamarinios10/Plugin.Media.dll
 /Users/marisbergs/.nuget/packages/xamarin.controls.signaturepad.forms/3.0.0/lib/Xamarin.iOS/SignaturePad.Forms.dll
 /Users/marisbergs/.nuget/packages/xamarin.controls.signaturepad/3.0.0/lib/Xamarin.iOS/SignaturePad.dll
 /Users/marisbergs/.nuget/packages/xam.plugin.geolocator/4.5.0.6/lib/xamarinios10/Plugin.Geolocator.dll
-/Users/marisbergs/.nuget/packages/plugin.permissions/3.0.0.12/lib/xamarinios10/Plugin.Permissions.dll
-/Users/marisbergs/.nuget/packages/xam.plugin.media/4.0.1.5/lib/xamarinios10/Plugin.Media.dll
 /Users/marisbergs/.nuget/packages/xam.plugins.messaging/5.2.0/lib/Xamarin.iOS10/Plugin.Messaging.Abstractions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Collections.dll
@@ -70,6 +70,12 @@
 /Users/marisbergs/.nuget/packages/rg.plugins.popup/1.1.4.145-pre/lib/Xamarin.IOS/Rg.Plugins.Popup.dll
 /Users/marisbergs/.nuget/packages/prism.forms.extensions/1.0.0-pre4/lib/netstandard1.0/Prism.Forms.Extensions.dll
 /Users/marisbergs/.nuget/packages/portable.text.encoding/0.8.3/lib/portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10/Portable.Text.Encoding.dll
+/Users/marisbergs/.nuget/packages/xfcontrols/1.0.0.6/lib/Xamarin.iOS10/AsNum.XFControls.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.ComponentModel.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Dynamic.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Microsoft.CSharp.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.0.0.15/lib/mono/Xamarin.iOS/Facades/System.Xml.ReaderWriter.dll
 /Users/marisbergs/.nuget/packages/xamarin.ffimageloading.transformations/2.4.3.840/lib/Xamarin.iOS10/FFImageLoading.Transformations.dll
 /Users/marisbergs/.nuget/packages/xamarin.ffimageloading/2.4.3.840/lib/Xamarin.iOS10/FFImageLoading.Platform.dll
 /Users/marisbergs/.nuget/packages/webp.touch/1.0.8/lib/Xamarin.iOS10/WebP.Touch.dll

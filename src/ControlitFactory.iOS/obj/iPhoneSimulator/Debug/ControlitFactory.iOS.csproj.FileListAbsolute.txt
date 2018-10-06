@@ -257,3 +257,5 @@
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/Reporten.txt
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/Reportlv.txt
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/Portable.Text.Encoding.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/AsNum.XFControls.dll
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory.iOS/bin/iPhoneSimulator/Debug/AsNum.XFControls.iOS.dll

@@ -63,7 +63,7 @@ namespace ControlitFactory.ViewModels
                 {
                     await _pageDialogService.DisplayAlertAsync("", ex.ToString(), "OK");
                 }
-                if (emailMessenger.CanSendEmail)
+                if (emailMessenger.CanSendEmail || 1==1)
                 {
                     try
                     {

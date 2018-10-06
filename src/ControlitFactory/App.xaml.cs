@@ -60,6 +60,7 @@ namespace ControlitFactory
             containerRegistry.RegisterForNavigation<EditTabPage>();
             containerRegistry.RegisterForNavigation<Ieraksts>();
             containerRegistry.RegisterForNavigation<Defekti>();
+            containerRegistry.RegisterForNavigation<DefektaRegistracija>();
         }
 
         protected override void OnStart()

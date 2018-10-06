@@ -981,6 +981,20 @@
           "lib/Xamarin.iOS10/Xamarin.iOS.ClusterKit.dll": {}
         }
       },
+      "XFControls/1.0.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.0.0.6480"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        }
+      },
       "ControlitFactory/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -990,6 +1004,7 @@
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
           "TK.CustomMap": "2.0.1",
+          "XFControls": "1.0.0.6",
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Messaging": "5.2.0",
@@ -1926,6 +1941,20 @@
           "lib/Xamarin.iOS10/Xamarin.iOS.ClusterKit.dll": {}
         }
       },
+      "XFControls/1.0.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.0.0.6480"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        }
+      },
       "ControlitFactory/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -1935,6 +1964,7 @@
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
           "TK.CustomMap": "2.0.1",
+          "XFControls": "1.0.0.6",
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Messaging": "5.2.0",
@@ -2871,6 +2901,20 @@
           "lib/Xamarin.iOS10/Xamarin.iOS.ClusterKit.dll": {}
         }
       },
+      "XFControls/1.0.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.0.0.6480"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        }
+      },
       "ControlitFactory/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -2880,6 +2924,7 @@
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
           "TK.CustomMap": "2.0.1",
+          "XFControls": "1.0.0.6",
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Messaging": "5.2.0",
@@ -3816,6 +3861,20 @@
           "lib/Xamarin.iOS10/Xamarin.iOS.ClusterKit.dll": {}
         }
       },
+      "XFControls/1.0.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.0.0.6480"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/AsNum.XFControls.dll": {},
+          "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll": {}
+        }
+      },
       "ControlitFactory/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -3825,6 +3884,7 @@
           "Prism.Plugin.Popups": "2.0.0-pre6",
           "Prism.Unity.Forms": "7.0.0.396",
           "TK.CustomMap": "2.0.1",
+          "XFControls": "1.0.0.6",
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Messaging": "5.2.0",
@@ -7395,6 +7455,29 @@
         "lib/Xamarin.iOS10/Xamarin.iOS.ClusterKit.dll",
         "xamarin.ios.clusterkit.0.3.1.1.nupkg.sha512",
         "xamarin.ios.clusterkit.nuspec"
+      ]
+    },
+    "XFControls/1.0.0.6": {
+      "sha512": "hOSwCtw46yYz55jWzldtRREjWkzWrWnxZfILMpl/PAo/WbDeSeJFBjPdXm7f/AuzHbsWVI32tYJic5HaBkbwIA==",
+      "type": "package",
+      "path": "xfcontrols/1.0.0.6",
+      "files": [
+        "lib/MonoAndroid/AsNum.XFControls.Droid.XML",
+        "lib/MonoAndroid/AsNum.XFControls.Droid.dll",
+        "lib/MonoAndroid/AsNum.XFControls.dll",
+        "lib/MonoAndroid/AsNum.XFControls.xml",
+        "lib/MonoTouch/AsNum.XFControls.dll",
+        "lib/MonoTouch/AsNum.XFControls.iOS.XML",
+        "lib/MonoTouch/AsNum.XFControls.iOS.dll",
+        "lib/MonoTouch/AsNum.XFControls.xml",
+        "lib/Xamarin.iOS10/AsNum.XFControls.dll",
+        "lib/Xamarin.iOS10/AsNum.XFControls.iOS.XML",
+        "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll",
+        "lib/Xamarin.iOS10/AsNum.XFControls.xml",
+        "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.XML",
+        "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.dll",
+        "xfcontrols.1.0.0.6.nupkg.sha512",
+        "xfcontrols.nuspec"
       ]
     },
     "ControlitFactory/1.0.0": {

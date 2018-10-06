@@ -2,15 +2,29 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory/ViewModels/IerakstsViewModel.cs">
     <Files>
       <File FileName="src/ControlitFactory/Views/Ieraksts.xaml" Line="190" Column="27" />
-      <File FileName="src/ControlitFactory/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" Line="17" Column="92" />
       <File FileName="src/ControlitFactory/Views/Ieraksts.xaml.cs" Line="15" Column="29" />
-      <File FileName="src/ControlitFactory/ViewModels/IerakstsViewModel.cs" Line="121" Column="45" />
+      <File FileName="src/ControlitFactory/ViewModels/IerakstsViewModel.cs" Line="163" Column="1" />
       <File FileName="src/ControlitFactory/Views/Settings.xaml.cs" Line="35" Column="44" />
+      <File FileName="src/ControlitFactory/Views/Defekti.xaml.cs" Line="1" Column="1" />
+      <File FileName="src/ControlitFactory/Views/Defekti.xaml" Line="6" Column="61" />
+      <File FileName="src/ControlitFactory.iOS/AppDelegate.cs" Line="15" Column="10" />
+      <File FileName="src/ControlitFactory/Views/DefektaRegistracija.xaml" Line="6" Column="61" />
+      <File FileName="src/ControlitFactory/Views/DefektaRegistracija.xaml.cs" Line="75" Column="42" />
+      <File FileName="src/ControlitFactory/ViewModels/DefektaRegistracijaViewModel.cs" Line="20" Column="57" />
+      <File FileName="src/ControlitFactory/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" Line="14" Column="5" />
+      <File FileName="src/ControlitFactory/App.xaml.cs" Line="62" Column="64" />
+      <File FileName="src/ControlitFactory/ViewModels/DefektiViewModel.cs" Line="50" Column="52" />
+      <File FileName="src/ControlitFactory/DataManager/DataManager.cs" Line="106" Column="1" />
+      <File FileName="src/ControlitFactory.iOS/SaveAndLoad.cs" Line="45" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/Views/DefektaRegistracija.xaml.cs" relfile="src/ControlitFactory/Views/DefektaRegistracija.xaml.cs" line="37" column="1" />
+      <Breakpoint file="/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/Views/DefektaRegistracija.xaml.cs" relfile="src/ControlitFactory/Views/DefektaRegistracija.xaml.cs" line="79" column="1" />
+      <Breakpoint file="/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/ViewModels/IerakstsViewModel.cs" relfile="src/ControlitFactory/ViewModels/IerakstsViewModel.cs" line="40" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />

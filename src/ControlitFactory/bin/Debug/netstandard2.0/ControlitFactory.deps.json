@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "30f5a9017c878d12b5411e7f696fd28b894d1452"
+    "signature": "20f0881cf987109cf937c36b69b3a9d9e8022ce0"
   },
   "compilationOptions": {},
   "targets": {
@@ -17,6 +17,7 @@
           "Prism.QuickStart.MFractor.Config": "1.0.3",
           "Prism.Unity.Forms": "7.0.0.396",
           "TK.CustomMap": "2.0.1",
+          "XFControls": "1.0.0.6",
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Messaging": "5.2.0",
@@ -863,6 +864,17 @@
           }
         }
       },
+      "XFControls/1.0.0.6": {
+        "dependencies": {
+          "Xamarin.Forms": "3.1.0.583944"
+        },
+        "runtime": {
+          "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.dll": {
+            "assemblyVersion": "1.0.0.6",
+            "fileVersion": "1.0.0.6"
+          }
+        }
+      },
       "Xamarin.iOS/0.0.0.0": {
         "runtime": {
           "Xamarin.iOS.dll": {
@@ -1368,6 +1380,13 @@
       "sha512": "sha512-KK4r9TBkMjCNqjPfvpaWYpK2sgpAd2rCcah6sG7XJs6AC2/oWy4Wz9zbb9YfJzco7MH2dyeZ6efkR6h2ZTcJEg==",
       "path": "xamarin.forms.maps/2.5.0.122203",
       "hashPath": "xamarin.forms.maps.2.5.0.122203.nupkg.sha512"
+    },
+    "XFControls/1.0.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hOSwCtw46yYz55jWzldtRREjWkzWrWnxZfILMpl/PAo/WbDeSeJFBjPdXm7f/AuzHbsWVI32tYJic5HaBkbwIA==",
+      "path": "xfcontrols/1.0.0.6",
+      "hashPath": "xfcontrols.1.0.0.6.nupkg.sha512"
     },
     "Xamarin.iOS/0.0.0.0": {
       "type": "reference",

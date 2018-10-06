@@ -964,6 +964,18 @@
         "runtime": {
           "lib/netstandard1.0/Xamarin.Forms.Maps.dll": {}
         }
+      },
+      "XFControls/1.0.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "2.0.0.6480"
+        },
+        "compile": {
+          "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.dll": {}
+        }
       }
     }
   },
@@ -4288,6 +4300,29 @@
         "xamarin.forms.maps.2.5.0.122203.nupkg.sha512",
         "xamarin.forms.maps.nuspec"
       ]
+    },
+    "XFControls/1.0.0.6": {
+      "sha512": "hOSwCtw46yYz55jWzldtRREjWkzWrWnxZfILMpl/PAo/WbDeSeJFBjPdXm7f/AuzHbsWVI32tYJic5HaBkbwIA==",
+      "type": "package",
+      "path": "xfcontrols/1.0.0.6",
+      "files": [
+        "lib/MonoAndroid/AsNum.XFControls.Droid.XML",
+        "lib/MonoAndroid/AsNum.XFControls.Droid.dll",
+        "lib/MonoAndroid/AsNum.XFControls.dll",
+        "lib/MonoAndroid/AsNum.XFControls.xml",
+        "lib/MonoTouch/AsNum.XFControls.dll",
+        "lib/MonoTouch/AsNum.XFControls.iOS.XML",
+        "lib/MonoTouch/AsNum.XFControls.iOS.dll",
+        "lib/MonoTouch/AsNum.XFControls.xml",
+        "lib/Xamarin.iOS10/AsNum.XFControls.dll",
+        "lib/Xamarin.iOS10/AsNum.XFControls.iOS.XML",
+        "lib/Xamarin.iOS10/AsNum.XFControls.iOS.dll",
+        "lib/Xamarin.iOS10/AsNum.XFControls.xml",
+        "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.XML",
+        "lib/portable-net45+win8+wp8+wpa81+MonoAndroid10+Xamarin.iOS10+MonoTouch10/AsNum.XFControls.dll",
+        "xfcontrols.1.0.0.6.nupkg.sha512",
+        "xfcontrols.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -4300,6 +4335,7 @@
       "Prism.QuickStart.MFractor.Config >= 1.0.3",
       "Prism.Unity.Forms >= 7.0.0.396",
       "TK.CustomMap >= 2.0.1",
+      "XFControls >= 1.0.0.6",
       "Xam.Plugin.Geolocator >= 4.5.0.6",
       "Xam.Plugin.Media >= 4.0.1.5",
       "Xam.Plugins.Messaging >= 5.2.0",
@@ -4426,6 +4462,10 @@
             "target": "Package",
             "version": "0.8.3"
           },
+          "XFControls": {
+            "target": "Package",
+            "version": "1.0.0.6"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
@@ -4449,6 +4489,16 @@
       "warningLevel": 1,
       "message": "Package 'Portable.Text.Encoding 0.8.3' was restored using '.NETPortable,Version=v0.0,Profile=Profile259, .NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "Portable.Text.Encoding",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XFControls 1.0.0.6' was restored using '.NETPortable,Version=v0.0,Profile=Profile259, .NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XFControls",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
       ]

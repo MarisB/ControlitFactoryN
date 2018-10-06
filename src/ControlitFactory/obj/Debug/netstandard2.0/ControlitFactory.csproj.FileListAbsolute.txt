@@ -55,3 +55,4 @@
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/Views/Ieraksts.xaml.g.cs
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/Reporten.txt
 /Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/bin/Debug/netstandard2.0/Reportlv.txt
+/Users/marisbergs/Projects/ControlifFactoryGit/src/ControlitFactory/obj/Debug/netstandard2.0/Views/DefektaRegistracija.xaml.g.cs
