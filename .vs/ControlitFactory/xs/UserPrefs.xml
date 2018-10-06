@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{497B5C55-46BB-47C8-A359-78B331CDF5E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory/ViewModels/IerakstsViewModel.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="src/ControlitFactory/Views/Ieraksts.xaml" Line="190" Column="27" />
       <File FileName="src/ControlitFactory/Views/Ieraksts.xaml.cs" Line="15" Column="29" />
-      <File FileName="src/ControlitFactory/ViewModels/IerakstsViewModel.cs" Line="163" Column="1" />
+      <File FileName="src/ControlitFactory/ViewModels/IerakstsViewModel.cs" Line="160" Column="25" />
       <File FileName="src/ControlitFactory/Views/Settings.xaml.cs" Line="35" Column="44" />
       <File FileName="src/ControlitFactory/Views/Defekti.xaml.cs" Line="1" Column="1" />
       <File FileName="src/ControlitFactory/Views/Defekti.xaml" Line="6" Column="61" />

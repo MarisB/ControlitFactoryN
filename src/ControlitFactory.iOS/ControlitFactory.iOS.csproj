@@ -156,28 +156,27 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\Contents.json" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@1x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@2x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@3x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@1x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@2x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@3x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@1x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@2x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@3x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-57x57@1x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-57x57@2x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@1x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@2x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@3x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-72x72@1x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-72x72@2x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@1x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@2x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@3x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-App-83.5x83.5@2x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-50x50@1x.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-Small-50x50@2x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_40.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_76.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_152.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_167.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_60.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_58.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_87.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_120.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_180.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_20.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_29.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\controlit_logo_1024.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
