@@ -1,20 +1,9 @@
 ﻿<Properties StartupConfiguration="{497B5C55-46BB-47C8-A359-78B331CDF5E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ControlifFactoryGit Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ControlitFactory/Views/MainPage.xaml.cs">
     <Files>
-      <File FileName="src/ControlitFactory/Helpers/ImageHelper.cs" Line="85" Column="49" />
-      <File FileName="src/ControlitFactory/Views/Settings.xaml.cs" Line="39" Column="53" />
-      <File FileName="src/ControlitFactory/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" Line="17" Column="92" />
-      <File FileName="src/ControlitFactory/Models/Defekts.cs" Line="89" Column="25" />
-      <File FileName="src/ControlitFactory/Resx/AppResources.Designer.cs" Line="25" Column="20" />
-      <File FileName="src/ControlitFactory.iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="src/ControlitFactory/ViewModels/SettingsViewModel.cs" Line="32" Column="1" />
-      <File FileName="src/ControlitFactory/App.xaml.cs" Line="98" Column="93" />
-      <File FileName="src/ControlitFactory/DataManager/IFileHelper.cs" Line="7" Column="33" />
-      <File FileName="src/ControlitFactory.iOS/FileHelper.cs" Line="12" Column="31" />
-      <File FileName="src/ControlitFactory/DataManager/DataManager.cs" Line="112" Column="1" />
-      <File FileName="src/ControlitFactory/Views/MainPage.xaml.cs" Line="14" Column="1" />
       <File FileName="src/ControlitFactory.iOS/Services/TableSource.cs" Line="48" Column="1" />
-      <File FileName="ControlifFactoryGit Status" />
+      <File FileName="src/ControlitFactory/ViewModels/MainPageViewModel.cs" Line="21" Column="24" />
+      <File FileName="src/ControlitFactory/Views/MainPage.xaml.cs" Line="65" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

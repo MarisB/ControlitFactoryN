@@ -62,6 +62,7 @@ namespace ControlitFactory.Views
                 {
                     Text = "Palīdzība",
                     Icon = "add.png",
+                    Command = viewModel.HelpCommand,
                     Order = ToolbarItemOrder.Secondary
                 };
 
